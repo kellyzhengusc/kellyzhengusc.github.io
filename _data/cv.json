@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Kexin Zheng",
+    "email": "kexinzhe@usc.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://kellyzhengusc.github.io",
+    "summary": "CS PhD student at USC",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Los Angeles",
       "countryCode": "US",
       "region": ""
     },
@@ -16,47 +16,56 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=SQlCsRQAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": ""
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "kexinzheng05",
+        "url": "https://github.com/kexinzheng05"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Southern California",
+      "area": "Ph.D in Computer Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2024",
+      "endDate": "2028",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of Southern California",
+      "area": "M.S. in Applied Data Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
+      "startDate": "2022",
+      "endDate": "2023",
+      "gpa": 4.0/4.0,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Beijing University of Technology",
+      "area": "B.S. in Environmental Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "startDate": "2017",
+      "endDate": "2021",
+      "gpa": 3.8/4.0,
+      "courses": []
+    },
+    {
+      "institution": "University of Kentucky",
+      "area": "Exchange Program, Civil Engineering",
+      "studyType": "",
+      "startDate": "2018",
+      "endDate": "2020",
+      "gpa": 3.985/4.000,
       "courses": []
     }
   ],
@@ -66,87 +75,66 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "A FastMap-Based Encoder-Decoder Architecture and Its Applications",
+      "publisher": "Proceedings of the Eleventh International Conference on Machine Learning, Optimization, and Data Science (LOD-2025)",
+      "releaseDate": "2025-01-01",
+      "website": "http://academicpages.github.io/files/lod25.pdf",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "FastMapSVM/FastMapSVR for Predictive Tasks on CSPs, SAT, and Weighted CSPs",
+      "publisher": "Proceedings of the Twenty-Third International Conference on Machine Learning and Applications (ICMLA-2024)",
+      "releaseDate": "2024-01-01",
+      "website": "http://academicpages.github.io/files/icmla24.pdf",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Generative AI-driven Forecasting of Oil Production",
+      "publisher": "Arxiv",
+      "releaseDate": "2024-01-01",
+      "website": "http://academicpages.github.io/files/oil_production.pdf",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "FastMapSVM for Predicting CSP Satisfiability",
+      "publisher": "Proceedings of the Twenty-Ninth International Conference on Principles and Practice of Constraint Programming (CP-2023)",
+      "releaseDate": "2023-01-01",
+      "website": "http://academicpages.github.io/files/cp23.pdf",
+      "summary": ""
+    },
+    {
+      "name": "Molecular Characterization of Dissolved Organic Nitrogen During Anoxic/Oxic and Anammox Processes Using ESI FT–ICR MS",
+      "publisher": "Water Environment Research",
+      "releaseDate": "2021-01-01",
+      "website": "",
+      "summary": ""
     }
   ],
   "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
+      "course": "CSCI 572: Information Retrieval and Web Search Engines",
+      "institution": "University of Southern California",
+      "date": "2024-08-20",
+      "role": "graduate course",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "DSCI 560: Data Science Professional Practicum",
+      "institution": "University of Southern California",
+      "date": "2025-01-15",
+      "role": "graduate course",
+      "description": ""
+    },
+    {
+      "course": "CSCI 585: Database Systems",
+      "institution": "University of Southern California",
+      "date": "2025-05-26",
+      "role": "graduate course",
       "description": ""
     }
   ],
   "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
   ]
 }
