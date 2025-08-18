@@ -47,7 +47,7 @@
       "studyType": "",
       "startDate": "2022",
       "endDate": "2023",
-      "gpa": 4.0/4.0,
+      "gpa": 4.0,
       "courses": []
     },
     {
@@ -56,7 +56,7 @@
       "studyType": "",
       "startDate": "2017",
       "endDate": "2021",
-      "gpa": 3.8/4.0,
+      "gpa": 3.8,
       "courses": []
     },
     {
@@ -65,7 +65,7 @@
       "studyType": "",
       "startDate": "2018",
       "endDate": "2020",
-      "gpa": 3.985/4.000,
+      "gpa": 3.985,
       "courses": []
     }
   ],
