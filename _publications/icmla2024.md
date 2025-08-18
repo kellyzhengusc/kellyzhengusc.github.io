@@ -3,6 +3,7 @@ title: "FastMapSVM/FastMapSVR for Predictive Tasks on CSPs, SAT, and Weighted CS
 collection: publications
 category: conferences
 permalink: /publication/icmla2024
+excerpt: ''
 date: 2024-01-01
 venue: 'Proceedings of the Twenty-Third International Conference on Machine Learning and Applications (ICMLA-2024)'
 paperurl: 'http://kellyzhengusc.github.io/files/icmla24.pdf'
