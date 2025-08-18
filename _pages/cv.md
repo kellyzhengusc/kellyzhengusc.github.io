@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* CloudMinds Co.Ltd
+* CloudMinds Co.Ltd, Jun 2021 - Dec 2021
   * Intern
   * Supervisor: Jing Sun
 
