@@ -1,0 +1,12 @@
+---
+title: "A FastMap-Based Encoder-Decoder Architecture and Its Applications"
+collection: publications
+category: conferences
+permalink: /publication/lod2025
+excerpt: ''
+date: 2025-01-01
+venue: 'Proceedings of the Eleventh International Conference on Machine Learning, Optimization, and Data Science (LOD-2025)'
+paperurl: 'http://kellyzhengusc.github.io/files/lod25.pdf'
+---
+
+FastMap is a linear-time algorithm that embeds a given set of complex objects into a Euclidean space while approximately preserving domain-specific distances between them. It has numerous applications and can be viewed as an efficient encoder from a Machine Learning (ML) perspective. In this paper, we propose a ``decoder'' counterpart to FastMap and present a FastMap-based encoder-decoder (FMED) architecture. While FMED is inspired by generative ML architectures such as the variational autoencoder (VAE), it is based on comparing pairs of objects via a distance function instead of learning the characteristics of individual objects. Hence, FMED is advantageous when a good domain-specific distance function on pairs of objects is readily available: In such cases, it not only requires significantly smaller amounts of training time and data but also supports more expressive queries compared to VAEs. We discuss some potential applications of our FMED architecture and show a concrete application, in which we efficiently generate new kinds of environment maps as testbeds for robot path-finding algorithms.
