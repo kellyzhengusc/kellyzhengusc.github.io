@@ -13,6 +13,7 @@ Education
 ======
 * Ph.D in Computer Science, University of Southern California, Aug 2024 - 2028 (expected)
 * M.S. in Applied Data Science, University of Southern California, Jan 2022 - Dec 2023
+  * Won 2024 USC Best Computer Science Research Award
 * B.E. in Environmental Engineering, Beijing University of Technology, Sep 2017 - Jul 2021
 * Exchange Program in Civil Engineering, University of Kentucky, Aug 2018 - Aug 2020
 
