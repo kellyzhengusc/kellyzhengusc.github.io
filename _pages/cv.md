@@ -11,18 +11,18 @@ redirect_from:
 
 Education
 ======
-* University of Southern California
-  * Ph.D in Computer Science, Aug 2024 - 2028 (expected)
-  * M.S. in Applied Data Science, Jan 2022 - Dec 2023
+* **University of Southern California**
+  * Ph.D in Computer Science, <span style="float:right;">Aug 2024 - 2028 (expected)</span>
+  * M.S. in Applied Data Science, <span style="float:right;">Jan 2022 - Dec 2023</span>
     * Won the 2024 USC Best Computer Science Research Award
-* Beijing University of Technology
-  * B.E. in Environmental Engineering, Sep 2017 - Jul 2021
-* University of Kentucky
-  * Exchange Program in Civil Engineering, Aug 2018 - Aug 2020
+* **Beijing University of Technology**
+  * B.E. in Environmental Engineering, <span style="float:right;">Sep 2017 - Jul 2021</span>
+* **University of Kentucky**
+  * Exchange Program in Civil Engineering, <span style="float:right;">Aug 2018 - Aug 2020</span>
 
 Work experience
 ======
-* CloudMinds Co.Ltd, Jun 2021 - Dec 2021
+* CloudMinds Co.Ltd, <span style="float:right;">Jun 2021 - Dec 2021</span>
   * Intern
   * Supervisor: Jing Sun
 
