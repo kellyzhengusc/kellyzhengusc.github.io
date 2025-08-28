@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hey there!"
+title: "Kexin Zheng"
 author_profile: true
 redirect_from: 
   - /about/
