@@ -20,12 +20,6 @@ Education
 * **University of Kentucky**
   * Exchange Program in Civil Engineering, <span style="float:right;">Aug 2018 - Aug 2020</span>
 
-Work Experience
-======
-* CloudMinds Co.Ltd, <span style="float:right;">Jun 2021 - Dec 2021</span>
-  * Intern
-  * Supervisor: Jing Sun
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
