@@ -34,4 +34,5 @@ Teaching
   
 Professional Activities and Service
 ======
-International Conference on Machine Learning, Optimization, and Data Science (LOD)
+The International Conference on Machine Learning, Optimization, and Data Science (LOD)
+The IEEE International Conference on Tools with Artificial Intelligence (ICTAI)
