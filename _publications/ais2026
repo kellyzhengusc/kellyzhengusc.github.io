@@ -1,0 +1,13 @@
+---
+title: "A FastMap-Based Framework for Black-Box Optimization"
+collection: publications
+category: conferences
+permalink: /publication/ais2026
+excerpt: ''
+date: 2026-09-24
+venue: 'Proceedings of the Twelfth International Artificial Intelligence Symposium (AIS-2026)'
+paperurl: 'http://kellyzhengusc.github.io/files/ais26.pdf'
+---
+
+
+Complex engineering and design problems often do not have a closed-form expression. Such problems are referred to as Black-Box Optimization (BBO) problems. In BBO problems, finding an optimal solution requires us to efficiently search through a space of complex objects by leveraging only the input-output interface to an expensive evaluation procedure. One existing BBO approach is to use Machine Learning (ML)-based surrogate models that replace expensive evaluation procedures with cheaper high-fidelity approximations. However, in this paper, we propose a novel framework for BBO that not only has complementary strengths compared to ML approaches but can also be synergistically combined with them. In the first stage, our framework generates an artificial neighborhood structure and an optimization landscape on the space of complex objects using an efficient embedding algorithm called FastMap. In the second stage, it is combined with a viable search method, such as Variable Neighborhood Search (VNS), to explore the optimization landscape and find an optimal or near-optimal solution without necessarily calling the evaluation procedure on all proposed solutions. We demonstrate the efficiency and effectiveness of our framework on complex graph design problems that are characterized by multiple constraints and scoring functions derived from various measures of centrality.
